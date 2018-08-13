@@ -1,2 +1,2 @@
 # CookBook
-Lobro de recetas
+Libro de recetas
